@@ -10,17 +10,17 @@ To run:
 
 open your browser in `http://localhost:4000/` and voila!
 
-![home](/readmeAssets/first.png)
+![home](./readmeAssets/first.png)
 
 Other routes:
 
 - `http://localhost:4000/test`
-![hello](/readmeAssets/second.png)
+![hello](./readmeAssets/second.png)
 
 - `http://localhost:4000/say/{any name}`
-![say name](/readmeAssets/third.png)
+![say name](./readmeAssets/third.png)
 
 - `http://localhost:4000/say/Dpbm`
-![easter egg](/readmeAssets/easter-egg.png)
+![easter egg](./readmeAssets/easter-egg.png)
 
 ### Made with 🥰 by [Dpbm](https://github.com/Dpbm)
